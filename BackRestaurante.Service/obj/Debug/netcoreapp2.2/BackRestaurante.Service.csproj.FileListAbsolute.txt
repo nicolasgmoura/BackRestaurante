@@ -1,0 +1,14 @@
+C:\Users\Nicolas Moura\source\repos\BackRestaurante\BackRestaurante.Service\bin\Debug\netcoreapp2.2\BackRestaurante.Service.deps.json
+C:\Users\Nicolas Moura\source\repos\BackRestaurante\BackRestaurante.Service\bin\Debug\netcoreapp2.2\BackRestaurante.Service.dll
+C:\Users\Nicolas Moura\source\repos\BackRestaurante\BackRestaurante.Service\bin\Debug\netcoreapp2.2\BackRestaurante.Service.pdb
+C:\Users\Nicolas Moura\source\repos\BackRestaurante\BackRestaurante.Service\bin\Debug\netcoreapp2.2\BackRestaurante.Domain.dll
+C:\Users\Nicolas Moura\source\repos\BackRestaurante\BackRestaurante.Service\bin\Debug\netcoreapp2.2\BackRestaurante.Infra.Data.dll
+C:\Users\Nicolas Moura\source\repos\BackRestaurante\BackRestaurante.Service\bin\Debug\netcoreapp2.2\BackRestaurante.Domain.pdb
+C:\Users\Nicolas Moura\source\repos\BackRestaurante\BackRestaurante.Service\bin\Debug\netcoreapp2.2\BackRestaurante.Infra.Data.pdb
+C:\Users\Nicolas Moura\source\repos\BackRestaurante\BackRestaurante.Service\obj\Debug\netcoreapp2.2\BackRestaurante.Service.csprojAssemblyReference.cache
+C:\Users\Nicolas Moura\source\repos\BackRestaurante\BackRestaurante.Service\obj\Debug\netcoreapp2.2\BackRestaurante.Service.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Moura\source\repos\BackRestaurante\BackRestaurante.Service\obj\Debug\netcoreapp2.2\BackRestaurante.Service.AssemblyInfoInputs.cache
+C:\Users\Nicolas Moura\source\repos\BackRestaurante\BackRestaurante.Service\obj\Debug\netcoreapp2.2\BackRestaurante.Service.AssemblyInfo.cs
+C:\Users\Nicolas Moura\source\repos\BackRestaurante\BackRestaurante.Service\obj\Debug\netcoreapp2.2\BackRestaurante.Service.csproj.CopyComplete
+C:\Users\Nicolas Moura\source\repos\BackRestaurante\BackRestaurante.Service\obj\Debug\netcoreapp2.2\BackRestaurante.Service.dll
+C:\Users\Nicolas Moura\source\repos\BackRestaurante\BackRestaurante.Service\obj\Debug\netcoreapp2.2\BackRestaurante.Service.pdb

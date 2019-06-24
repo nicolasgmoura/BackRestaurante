@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Nicolas Moura\\source\\repos\\BackRestaurante\\BackRestaurante.Infra.Data\\BackRestaurante.Infra.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Nicolas Moura\\source\\repos\\BackRestaurante\\BackRestaurante.Domain\\BackRestaurante.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nicolas Moura\\source\\repos\\BackRestaurante\\BackRestaurante.Domain\\BackRestaurante.Domain.csproj",
+        "projectName": "BackRestaurante.Domain",
+        "projectPath": "C:\\Users\\Nicolas Moura\\source\\repos\\BackRestaurante\\BackRestaurante.Domain\\BackRestaurante.Domain.csproj",
+        "packagesPath": "C:\\Users\\Nicolas Moura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nicolas Moura\\source\\repos\\BackRestaurante\\BackRestaurante.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nicolas Moura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Nicolas Moura\\source\\repos\\BackRestaurante\\BackRestaurante.Infra.Data\\BackRestaurante.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nicolas Moura\\source\\repos\\BackRestaurante\\BackRestaurante.Infra.Data\\BackRestaurante.Infra.Data.csproj",
+        "projectName": "BackRestaurante.Infra.Data",
+        "projectPath": "C:\\Users\\Nicolas Moura\\source\\repos\\BackRestaurante\\BackRestaurante.Infra.Data\\BackRestaurante.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Nicolas Moura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nicolas Moura\\source\\repos\\BackRestaurante\\BackRestaurante.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nicolas Moura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Nicolas Moura\\source\\repos\\BackRestaurante\\BackRestaurante.Domain\\BackRestaurante.Domain.csproj": {
+                "projectPath": "C:\\Users\\Nicolas Moura\\source\\repos\\BackRestaurante\\BackRestaurante.Domain\\BackRestaurante.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
